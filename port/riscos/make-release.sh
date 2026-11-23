@@ -1,4 +1,5 @@
 #!/bin/sh -e
+# RISC OS port, copyright David Sharp 2026
 # Makes the RISC OS release zip, build/release/OpenTS-riscos-<version>.zip: !OpenTS (the game,
 # with its help, licences and installer, but no game data).
 # Filetypes are kept (see tools/riscos-zip.py). Run on the host, with Docker:

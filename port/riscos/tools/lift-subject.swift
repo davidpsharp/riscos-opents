@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 // Cuts the subject out of a picture, leaving the background transparent, with macOS's
 // Vision framework (the same as "Remove Background" in Preview). macOS 14 or later.
 //   swift lift-subject.swift <in.png> <out.png>

@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The parts of the Microsoft C library the game uses outside Win32 calls. The POSIX build
 ** includes this in every file, as MSVC makes them available everywhere.

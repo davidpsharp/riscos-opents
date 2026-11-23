@@ -1,4 +1,5 @@
 #!/bin/sh
+# RISC OS port, copyright David Sharp 2026
 # clang++ for RISC OS: compiles C++ for GCCSDK GCC 10 (arm-riscos-gnueabihf), whose
 # headers, libraries and linker the program uses. The flags match GCC's ABI: hard float
 # with VFPv3, full-size enums, no unaligned accesses (RISC OS traps them).

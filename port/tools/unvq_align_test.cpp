@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 // Host-side check of the VQ block decoders' destination alignment. Each decoder that stores whole
 // words is run on random codebook and pointer data into a destination at byte offsets 0, 2, 4
 // and 6 (the movie can sit at any pixel column, so only 2-byte alignment is guaranteed), and the

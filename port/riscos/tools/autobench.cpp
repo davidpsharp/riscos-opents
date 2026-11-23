@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The automatic screen size's stand-ins on their own, for measuring machines (see
 ** port/riscos/autosize.cpp): their times at several sizes, without starting the game. Built in the

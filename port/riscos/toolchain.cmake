@@ -1,3 +1,4 @@
+# RISC OS port, copyright David Sharp 2026
 # CMake toolchain for OpenTS on RISC OS 5 (ARMv7, such as the Raspberry Pi 4). C is
 # compiled by GCCSDK GCC 10; C++ by clang through port/riscos/clang++, because the engine
 # needs __declspec(property); GCC links. Run inside the opents-riscos image (Dockerfile).

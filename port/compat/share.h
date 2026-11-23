@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 #pragma once
 #define _SH_DENYNO 0x40
 #define _SH_DENYWR 0x20

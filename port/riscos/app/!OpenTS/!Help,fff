@@ -15,6 +15,8 @@ OpenTS:          https://github.com/OpenTS-Developers/OpenTS
 OpenTS manual:   https://opents-developers.github.io/OpenTS/
 RISC OS port:    https://github.com/davidpsharp/OpenTS (branch riscos)
 
+RISC OS port, copyright David Sharp 2026.
+
 This RISC OS version is a port of OpenTS, ported by David Sharp. It is based
 on OpenTS 0.2.0 (the development source of 7 October 2026, commit 70286ee6),
 after the project's last release, 0.1.0. It needs

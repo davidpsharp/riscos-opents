@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# RISC OS port, copyright David Sharp 2026
 """Make the !OpenTS icon picture, port/riscos/icons/opents-icon.png, from the OpenTS banner.
 
 The banner is too wide for a 34x34 icon, so the icon keeps two of its parts: the fiery "TS",

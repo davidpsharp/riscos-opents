@@ -1,4 +1,5 @@
 #!/bin/sh -e
+# RISC OS port, copyright David Sharp 2026
 # Makes build/riscos/!OpenTS from a finished cross build, in the opents-riscos image:
 #   docker run --rm -v <repo>:/work opents-riscos /work/port/riscos/package.sh
 # The game data is not included: it's installed from the freeware CD images, dragged onto the

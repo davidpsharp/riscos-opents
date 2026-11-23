@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# RISC OS port, copyright David Sharp 2026
 """Turn the STRINGTABLE blocks of code/language/language.rc into a C++ table for the POSIX
 build, whose LoadString (port/compat/win32.cpp) looks strings up there.
 Usage: rcstrings.py <language.h> <language.rc> <output.cpp>"""

@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 // Host-side check of the frame rate counter's font: draws several numbers at several scales over
 // a bright and a dark background into a memory buffer and writes it as a PPM (convert to PNG to look).
 //   clang++ -std=c++20 -I port/posix port/tools/fpsfont_test.cpp port/posix/fpsfont.cpp -o fpsfont_test

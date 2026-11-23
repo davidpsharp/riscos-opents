@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The speed test's stand-ins for a frame's work (autosize.cpp), kept apart so a test program can
 ** time them on their own (port/riscos/tools/autobench.cpp). Each runs for about the time it's

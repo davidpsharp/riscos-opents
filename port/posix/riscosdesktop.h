@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The game on the RISC OS desktop: an icon on the icon bar that starts it, and Shift+F12 (on the
 ** desktop it brings the icon bar to the front) to go back to the desktop with the game paused,

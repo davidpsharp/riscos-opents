@@ -1,3 +1,4 @@
+# RISC OS port, copyright David Sharp 2026
 # The POSIX build of OpenTS, for macOS and RISC OS. It builds the engine from code/ with the
 # Win32 stand-ins in port/compat and the software presenter, UI renderer, audio output and
 # debug log in port/posix. Configure it as its own project:

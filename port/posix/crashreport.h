@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** Installs a handler that logs where the program crashed. Only RISC OS has one; elsewhere a
 ** debugger does the job better.

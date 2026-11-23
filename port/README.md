@@ -157,3 +157,5 @@ To cut a release:
 - Where `long` is 64 bits (macOS), structures that use `long` for on-disk or network data
   are the wrong size; the VQA library, SHA and Base64 have been fixed. RISC OS, like
   Windows, has 32-bit `long`.
+
+RISC OS port, copyright David Sharp 2026.

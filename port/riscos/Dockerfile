@@ -1,3 +1,4 @@
+# RISC OS port, copyright David Sharp 2026
 # The RISC OS cross toolchain for OpenTS: GCCSDK GCC 10.2 (arm-riscos-gnueabihf) supplies the
 # headers, libraries and linker; clang compiles, because the engine uses MSVC's
 # __declspec(property), which GCC lacks. Build with:

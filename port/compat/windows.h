@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** Win32 declarations for the POSIX build (macOS and RISC OS). Only what the game uses is
 ** here; port/compat/win32.cpp implements the functions. GDI, registry and window-message

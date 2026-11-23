@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The game's size on RISC OS when the player hasn't chosen one: the desktop's shape, as big as
 ** this machine can draw it smoothly, from a short speed test run the first time (riscos/autosize.cpp).

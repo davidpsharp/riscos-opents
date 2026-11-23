@@ -1,4 +1,5 @@
 #!/bin/sh -e
+# RISC OS port, copyright David Sharp 2026
 # Cross-builds OpenTS for RISC OS in the opents-riscos image, with the repository at /work:
 #   docker run --rm -v <repo>:/work opents-riscos /work/port/riscos/build.sh
 # RISC OS fixes to SDL's RISC OS driver, kept here as patches (thirdparty/SDL is upstream's

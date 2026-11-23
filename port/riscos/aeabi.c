@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The ARM EABI memory helpers that clang calls on its bare-metal ARM target. GCCSDK's
 ** runtime does not provide them, so they pass straight to the C library.

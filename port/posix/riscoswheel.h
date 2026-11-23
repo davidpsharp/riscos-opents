@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** Reads the mouse wheel where SDL does not (RISC OS) and passes it to SDL as wheel events.
 ** Call it before polling SDL's events. Elsewhere it does nothing.

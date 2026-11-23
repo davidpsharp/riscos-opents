@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 // std::source_location for GCC 10's libstdc++, which predates it. clang supplies the
 // builtins, so this is the C++20 class in full.
 #pragma once

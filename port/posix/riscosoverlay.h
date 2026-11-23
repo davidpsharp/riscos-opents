@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** Game frames shown through the Raspberry Pi's hardware overlay (RISC OS's VideoOverlay module):
 ** the display stretches the frame to the screen, so neither the scaling nor the copy to the

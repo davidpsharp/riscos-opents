@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** tsfiles.h: the files the Tiberian Sun game needs from each freeware CD image, with their
 ** sizes and CRC-32s. Shared by Utils.tsprep, which installs and checks them, and the game's

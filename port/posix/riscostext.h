@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** Reads typed characters where SDL does not (RISC OS) and passes them to SDL as text events.
 ** Call it before polling SDL's events. Elsewhere it does nothing.

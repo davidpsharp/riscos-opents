@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# RISC OS port, copyright David Sharp 2026
 """Make the !OpenTS application sprites from port/riscos/icons/opents-icon.png.
 
 Writes two RISC OS sprite files (filetype &FF9) of 32-bit sprites with a mask, each holding

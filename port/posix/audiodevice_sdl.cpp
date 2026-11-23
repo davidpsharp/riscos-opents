@@ -3,6 +3,7 @@
  *******************************************************************************
  * SPDX-License-Identifier: GPL-3.0-or-later
  * Copyright 2026 OpenTS contributors
+ * RISC OS port, copyright David Sharp 2026
  *
  * See LICENSE.md for applicable additional terms and warranty disclaimers.
  ******************************************************************************/

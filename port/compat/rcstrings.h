@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 #pragma once
 // The game strings, sorted by number (see port/tools/rcstrings.py).
 struct RCString

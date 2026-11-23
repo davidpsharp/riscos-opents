@@ -1,3 +1,4 @@
+// RISC OS port, copyright David Sharp 2026
 /*
 ** The game's pointer on RISC OS, drawn into each frame. SDL's RISC OS driver has no pointers
 ** of its own: any SDL cursor shows the desktop's pointer. Elsewhere these do nothing.

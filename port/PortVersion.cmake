@@ -1,3 +1,4 @@
+# RISC OS port, copyright David Sharp 2026
 # Writes opents_port.h: the version of the RISC OS (POSIX) port, as the Info window, !Help, the
 # log and the main menu report it. This is the port's own number, kept in port/VERSION; it is
 # not the engine's (project() in CMakeLists.txt), which the save and network stamps use.

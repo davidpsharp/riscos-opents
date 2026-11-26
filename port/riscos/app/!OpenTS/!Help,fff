@@ -13,7 +13,7 @@ Command & Conquer games, and on reverse engineering of Tiberian Sun.
 
 OpenTS:          https://github.com/OpenTS-Developers/OpenTS
 OpenTS manual:   https://opents-developers.github.io/OpenTS/
-RISC OS port:    https://github.com/davidpsharp/OpenTS (branch riscos)
+RISC OS port:    https://github.com/davidpsharp/riscos-opents (branch riscos)
 
 RISC OS port, copyright David Sharp 2026.
 
